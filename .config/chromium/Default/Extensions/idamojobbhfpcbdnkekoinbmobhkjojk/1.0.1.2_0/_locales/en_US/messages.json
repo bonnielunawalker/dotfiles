@@ -1,8 +1,0 @@
-{
-   "ext_description": {
-      "message": "This app is a file transfer, backup tool for Google Drive. It allow you to save Google Drive's files to Dropbox™ folder directly."
-   },
-   "ext_name": {
-      "message": "Drive Files to Dropbox™"
-   }
-}
