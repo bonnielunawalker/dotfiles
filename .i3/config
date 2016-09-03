@@ -32,6 +32,9 @@ exec atom
 exec sh ~/.fehbg
 exec compton --config ~/.config/compton/compton.conf
 
+# lock screen
+bindsym $mod+Shift+x exec bash ~/.scripts/lock.sh
+
 # Set bar colours
 set $bg-color 	              #00000088
 set $inactive-bg-color        #2f343f88
