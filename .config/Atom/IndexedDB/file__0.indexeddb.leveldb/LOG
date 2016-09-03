@@ -1,6 +1,0 @@
-2016/09/03-19:18:45.432 22554 Reusing MANIFEST /home/bryn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2016/09/03-19:18:45.432 22554 Recovering log #4
-2016/09/03-19:18:45.439 22554 Reusing old log /home/bryn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000004.log 
-2016/09/03-19:23:11.658 24213 Level-0 table #8: started
-2016/09/03-19:23:11.850 24213 Level-0 table #8: 1652536 bytes OK
-2016/09/03-19:23:11.892 24213 Delete type=0 #4
