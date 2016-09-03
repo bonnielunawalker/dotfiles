@@ -1,0 +1,292 @@
+2016-09-03T14:26:02.243Z - info: Creating local storage instance at path: /home/bryn/.config/Slack/local-settings.json
+2016-09-03T14:26:02.247Z - error: Couldn't load /home/bryn/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bryn/.config/Slack/local-settings.json'
+2016-09-03T14:26:02.593Z - info: Creating local storage instance at path: /home/bryn/.config/Slack/redux-state.json
+2016-09-03T14:26:02.594Z - error: Couldn't load /home/bryn/.config/Slack/redux-state.json: ENOENT: no such file or directory, open '/home/bryn/.config/Slack/redux-state.json'
+2016-09-03T14:26:02.594Z - info: No state in localStorage, starting from scratch
+2016-09-03T14:26:02.596Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-09-03T14:26:02.602Z - info: No state in keychain, starting from scratch
+2016-09-03T14:26:02.604Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-09-03T14:26:02.604Z - info: Creating local storage instance at path: /home/bryn/.config/Slack/local-settings.json
+2016-09-03T14:26:02.604Z - error: Couldn't load /home/bryn/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bryn/.config/Slack/local-settings.json'
+2016-09-03T14:26:02.606Z - info: LOAD_LEGACY : {
+  "updated": {
+    "settings": {
+      "hasRunApp": false,
+      "hasRunFromTray": false,
+      "autoHideMenuBar": false,
+      "hasMigratedData": {
+        "browser": true
+      }
+    }
+  }
+}
+2016-09-03T14:26:02.722Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-09-03T14:26:02.722Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.1.0",
+  "versionName": "Dog Days Are Over",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-09-03T14:26:02.746Z - info: Showing a tray balloon with title: Welcome to Slack!
+2016-09-03T14:26:02.789Z - info: UPDATE_SETTINGS : {
+  "hasRunApp": true
+}
+2016-09-03T14:26:02.794Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2016-09-03T14:26:02.805Z - info: Loading windowMetrics: null
+2016-09-03T14:26:02.806Z - info: SAVE_WINDOW_SETTINGS : {
+  "position": [
+    384,
+    108
+  ],
+  "size": [
+    1152,
+    864
+  ]
+}
+2016-09-03T14:26:02.956Z - info: UPDATE_SETTINGS : {
+  "PrefSSBFileDownloadPath": "/home/bryn/Downloads"
+}
+2016-09-03T14:26:02.968Z - info: Welcome to Slack 2.1.0 x64
+2016-09-03T14:26:02.968Z - info: App load time: 732ms
+2016-09-03T14:26:02.971Z - warn: No updater exists for this platform
+2016-09-03T14:26:05.097Z - info: Main window finished load. Launched on login: false
+2016-09-03T14:26:05.117Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T14:26:07.344Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T14:26:40.077Z - info: Saving store due to ADD_NEW_TEAM
+2016-09-03T14:56:02.821Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1890,
+    1029
+  ],
+  "position": [
+    15,
+    36
+  ],
+  "isMaximized": false
+}
+2016-09-03T15:26:02.970Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1890,
+    1029
+  ],
+  "position": [
+    15,
+    36
+  ],
+  "isMaximized": false
+}
+2016-09-03T15:30:21.112Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T15:30:22.299Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T15:56:03.079Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1890,
+    1050
+  ],
+  "position": [
+    15,
+    15
+  ],
+  "isMaximized": false
+}
+2016-09-03T16:02:19.312Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T16:02:23.068Z - info: Attempted to close the window, hiding due to run from tray
+2016-09-03T16:02:23.076Z - info: UPDATE_SETTINGS : {
+  "hasRunFromTray": true
+}
+2016-09-03T16:02:23.087Z - info: SHOW_TRAY_BALLOON : {
+  "title": "Why didn't Slack quit?",
+  "content": "Slack's set to stay running in the notification area. To change this, visit Preferences > Linux App."
+}
+2016-09-03T16:02:23.091Z - info: Showing a tray balloon with title: Why didn't Slack quit?
+2016-09-03T16:26:03.241Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1892,
+    1031
+  ],
+  "position": [
+    14,
+    35
+  ],
+  "isMaximized": false
+}
+2016-09-03T16:56:03.330Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1892,
+    1031
+  ],
+  "position": [
+    14,
+    35
+  ],
+  "isMaximized": false
+}
+2016-09-03T17:26:01.546Z - info: FOREGROUND_APP 
+2016-09-03T17:26:01.580Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T17:26:03.367Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    620,
+    1021
+  ],
+  "position": [
+    778,
+    40
+  ],
+  "isMaximized": false
+}
+2016-09-03T17:26:05.136Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T17:28:00.737Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T17:28:53.486Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T17:29:35.095Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T18:24:34.760Z - info: Creating local storage instance at path: /home/bryn/.config/Slack/local-settings.json
+2016-09-03T18:24:34.761Z - error: Couldn't load /home/bryn/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bryn/.config/Slack/local-settings.json'
+2016-09-03T18:24:35.181Z - info: Creating local storage instance at path: /home/bryn/.config/Slack/redux-state.json
+2016-09-03T18:24:35.183Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T24APCV71",
+      "teamsByIndex": [
+        "T24APCV71"
+      ],
+      "windowSettings": {
+        "size": [
+          620,
+          1021
+        ],
+        "position": [
+          778,
+          40
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.1.0",
+      "versionName": "Dog Days Are Over",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "webappSrcPath": null,
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "openDevToolsOnStart": false,
+      "pretendNotReallyWindows10": false,
+      "releaseChannel": "prod",
+      "isMacAppStore": false,
+      "isWindowsStore": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": true,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true,
+        "macgap": false
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bryn/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T24APCV71": {
+        "name": "brynwalker",
+        "id": "U248ZJVHR",
+        "team_id": "T24APCV71",
+        "team_name": "UCD-Proj-Group",
+        "team_url": "https://ucd-proj-group.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "U",
+        "user_id": "U248ZJVHR",
+        "theme": {
+          "column_bg": "#4D394B",
+          "menu_bg": "#3E313C",
+          "active_item": "#4C9689",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#3E313C",
+          "text_color": "#FFFFFF",
+          "active_presence": "#38978D",
+          "badge": "#EB4D5C"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-09-03T18:24:35.187Z - info: No state in keychain, starting from scratch
+2016-09-03T18:24:35.188Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-09-03T18:24:35.400Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-09-03T18:24:35.400Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.1.0",
+  "versionName": "Dog Days Are Over",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-09-03T18:24:35.458Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2016-09-03T18:24:35.463Z - info: Loading windowMetrics: {"size":[620,1021],"position":[778,40],"isMaximized":false}
+2016-09-03T18:24:35.599Z - info: Welcome to Slack 2.1.0 x64
+2016-09-03T18:24:35.599Z - info: App load time: 846ms
+2016-09-03T18:24:35.601Z - warn: No updater exists for this platform
+2016-09-03T18:24:37.355Z - info: Main window finished load. Launched on login: false
+2016-09-03T18:24:37.370Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T18:24:38.273Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T18:24:39.115Z - info: FOCUS_PRIMARY_TEAM 
+2016-09-03T18:25:07.130Z - info: Attempted to close the window, hiding due to run from tray
+2016-09-03T18:54:35.484Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1890,
+    1029
+  ],
+  "position": [
+    15,
+    36
+  ],
+  "isMaximized": false
+}

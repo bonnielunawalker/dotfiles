@@ -1,0 +1,15 @@
+2016/09/03-19:12:24.993 20344 Reusing MANIFEST /home/bryn/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/09/03-19:12:24.994 20344 Recovering log #105
+2016/09/03-19:12:24.994 20344 Reusing old log /home/bryn/.config/chromium/Default/Session Storage/000105.log 
+2016/09/03-19:12:41.460 20927 Level-0 table #109: started
+2016/09/03-19:12:41.616 20927 Level-0 table #109: 70129 bytes OK
+2016/09/03-19:12:41.674 20927 Delete type=0 #105
+2016/09/03-19:12:41.675 20927 Compacting 4@0 + 1@1 files
+2016/09/03-19:12:41.739 20927 Generated table #110@0: 2669 keys, 663733 bytes
+2016/09/03-19:12:41.739 20927 Compacted 4@0 + 1@1 files => 663733 bytes
+2016/09/03-19:12:41.794 20927 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/09/03-19:12:41.795 20927 Delete type=2 #101
+2016/09/03-19:12:41.795 20927 Delete type=2 #109
+2016/09/03-19:12:41.795 20927 Delete type=2 #106
+2016/09/03-19:12:41.795 20927 Delete type=2 #104
+2016/09/03-19:12:41.795 20927 Delete type=2 #99

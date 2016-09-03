@@ -1,0 +1,15 @@
+2016-09-03T14:26:04.109Z - info: No teams found to migrate
+2016-09-03T14:26:04.111Z - info: Found legacy settings: {}
+2016-09-03T14:26:04.114Z - info: LOAD_LEGACY : {
+  "updated": {
+    "settings": {
+      "hasMigratedData": {
+        "renderer": true
+      }
+    }
+  }
+}
+2016-09-03T14:26:05.074Z - info: SET_NETWORK_STATUS : "online"
+2016-09-03T14:26:05.105Z - info: Checking network connection to Slack...
+2016-09-03T14:26:46.811Z - info: Bugsnag user: U248ZJVHR
+2016-09-03T17:29:28.041Z - info: Opening external window to https://docs.google.com/document/d/1D7irwJdfHQYDh7OyxPD-CzZhqGc6y3CScCBonGAOApY/edit?usp=drivesdk

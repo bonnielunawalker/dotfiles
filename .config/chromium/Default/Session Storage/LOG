@@ -1,0 +1,24 @@
+2016/09/03-19:19:27.482 22880 Reusing MANIFEST /home/bryn/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/09/03-19:19:27.482 22880 Recovering log #108
+2016/09/03-19:19:27.483 22880 Reusing old log /home/bryn/.config/chromium/Default/Session Storage/000108.log 
+2016/09/03-19:24:55.440 24612 Level-0 table #113: started
+2016/09/03-19:24:55.589 24612 Level-0 table #113: 77200 bytes OK
+2016/09/03-19:24:55.667 24612 Delete type=0 #108
+2016/09/03-19:32:56.373 24612 Level-0 table #115: started
+2016/09/03-19:32:56.526 24612 Level-0 table #115: 75520 bytes OK
+2016/09/03-19:32:56.781 24612 Delete type=0 #112
+2016/09/03-19:33:25.349 24612 Level-0 table #117: started
+2016/09/03-19:33:25.487 24612 Level-0 table #117: 68951 bytes OK
+2016/09/03-19:33:25.564 24612 Delete type=0 #114
+2016/09/03-19:37:25.359 24612 Level-0 table #119: started
+2016/09/03-19:37:25.400 24612 Level-0 table #119: 142479 bytes OK
+2016/09/03-19:37:25.444 24612 Delete type=0 #116
+2016/09/03-19:37:25.445 24612 Compacting 4@0 + 1@1 files
+2016/09/03-19:37:25.533 24612 Generated table #120@0: 3012 keys, 447442 bytes
+2016/09/03-19:37:25.533 24612 Compacted 4@0 + 1@1 files => 447442 bytes
+2016/09/03-19:37:25.577 24612 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/09/03-19:37:25.578 24612 Delete type=2 #119
+2016/09/03-19:37:25.578 24612 Delete type=2 #113
+2016/09/03-19:37:25.578 24612 Delete type=2 #117
+2016/09/03-19:37:25.578 24612 Delete type=2 #110
+2016/09/03-19:37:25.579 24612 Delete type=2 #115

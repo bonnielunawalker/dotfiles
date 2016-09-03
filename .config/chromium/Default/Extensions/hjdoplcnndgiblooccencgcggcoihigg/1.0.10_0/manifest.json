@@ -1,0 +1,21 @@
+{
+   "background": {
+      "scripts": [ "libs/jquery.js", "utils.js", "background.js" ]
+   },
+   "description": "Get information instantly about websites' terms of service and privacy policies, with ratings and summaries from the www.tosdr.org.",
+   "homepage_url": "http://tosdr.org",
+   "icons": {
+      "128": "images/icon-128.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCazsljioWp4z6V35hA7KjI+AMRBvrPQcwW8WuW27LcgepLT/hvtgNZUUL6yQ/QKBLvYH5ogbM+DmaSdW7QsU3hg7u7QMKdqeKldDpRGp3ijtiuL5D+W01Eb7vNEEXIqa9AhMSjrg/+bH1+3DhWOgsbqO0pYDI09Iw1eu9ZOsGYywIDAQAB",
+   "manifest_version": 2,
+   "name": "Terms of Service; Didn’t Read",
+   "page_action": {
+      "default_icon": "images/icon-19.png",
+      "default_title": "Terms of Service; Didn’t Read"
+   },
+   "permissions": [ "tabs", "notifications", "http://tosdr.org/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.10"
+}

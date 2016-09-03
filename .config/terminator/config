@@ -1,0 +1,25 @@
+[global_config]
+  focus = system
+[keybindings]
+  full_screen = <Ctrl><Shift>F11
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#ffffff"
+    background_darkness = 0.54
+    background_image = None
+    background_type = transparent
+    font = Fira Mono 11
+    foreground_color = "#000000"
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

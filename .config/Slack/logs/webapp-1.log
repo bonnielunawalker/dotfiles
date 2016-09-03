@@ -1,0 +1,42 @@
+2016-09-03T14:26:23.344Z - info: Window is unloading, winssb is no longer accessible
+2016-09-03T14:26:23.617Z - info: Window is unloading, winssb is no longer accessible
+2016-09-03T14:26:35.014Z - info: Window is unloading, winssb is no longer accessible
+2016-09-03T14:26:35.997Z - info: Window is unloading, winssb is no longer accessible
+2016-09-03T14:26:37.616Z - info: Window is unloading, winssb is no longer accessible
+2016-09-03T14:26:40.071Z - info: ADD_NEW_TEAM : {
+  "id": "U248ZJVHR",
+  "name": "brynwalker",
+  "team_id": "T24APCV71",
+  "team_name": "UCD-Proj-Group",
+  "team_url": "https://ucd-proj-group.slack.com/"
+}
+2016-09-03T14:26:40.075Z - info: SET_LOGIN_DIALOG 
+2016-09-03T18:24:42.581Z - info: UPDATE_SEARCH_BOX_SIZE : {
+  "newSize": {
+    "width": 297
+  }
+}
+2016-09-03T18:24:43.796Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#4D394B",
+    "menu_bg": "#3E313C",
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#3E313C",
+    "text_color": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C"
+  },
+  "teamId": "T24APCV71"
+}
+2016-09-03T18:24:45.691Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T24APCV71"
+}
+2016-09-03T18:24:46.393Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T24APCV71"
+}
+2016-09-03T18:24:53.837Z - info: SET_LOGIN_DIALOG : true
