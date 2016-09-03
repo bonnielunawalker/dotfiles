@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo ip link set wlp1s0 down
+sudo netctl start eduroam
