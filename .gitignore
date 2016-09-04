@@ -40,3 +40,9 @@ google-chrome/
 splashkit/
 tmp/
 wireless/
+.config/MonoDevelop-5.0/
+.config/MonoDevelop/
+.config/NuGet/
+.config/stetic/
+.config/xbuild/
+Development/
