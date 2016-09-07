@@ -46,3 +46,11 @@ wireless/
 .config/stetic/
 .config/xbuild/
 Development/
+.Rider10/
+.config/JetBrains/
+.mono/
+.recently-used
+.yjp/
+Rider/
+RiderProjects/
+.config/gtk-2.0/gtkfilechooser.ini
