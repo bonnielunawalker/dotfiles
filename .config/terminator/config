@@ -1,7 +1,7 @@
 [global_config]
-  focus = system
+  title_font = Fira Mono 9
+  title_use_system_font = False
 [keybindings]
-  full_screen = <Ctrl><Shift>F11
 [layouts]
   [[default]]
     [[[child1]]]
@@ -13,13 +13,13 @@
 [plugins]
 [profiles]
   [[default]]
-    background_color = "#ffffff"
-    background_darkness = 0.54
+    background_color = "#002b36"
     background_image = None
-    background_type = transparent
-    font = Fira Mono 11
-    foreground_color = "#000000"
+    font = Fira Mono Medium 10
+    foreground_color = "#839496"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     scrollback_infinite = True
     scrollbar_position = hidden
     show_titlebar = False
+    urgent_bell = True
     use_system_font = False

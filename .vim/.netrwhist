@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/bryn/Development/DevProject/HDProj/SDP/.git'
+let g:netrw_dirhist_2='/home/bryn/Development/DevProject/SDP/.git'
+let g:netrw_dirhist_3='/home/bryn/Development/DevProject/HDProj'
+let g:netrw_dirhist_4='/home/bryn/Development/OOP/Week1'
+let g:netrw_dirhist_5='/home/bryn/Development/OOP/Week1/1.1'
+let g:netrw_dirhist_6='/home/bryn/Development/OOP/Week1/1.1/HelloWorld'
+let g:netrw_dirhist_7='/home/bryn/Development/OOP/Week1/1.1/HelloWorld/HelloWorld'
