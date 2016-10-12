@@ -18,17 +18,14 @@ font pango: Fira Mono 11
 
 # Set default workspaces for applications
 assign [class="glances"] $w1
-assign [class="Atom"] $w2
-assign [class="vim"] $w2
 assign [class="chromium-browser"] $w4
 assign [class="Thunar"] $w9
 assign [class="steam"] $w8
-assign [class="Scudcloud"] $w6
+assign [class="Slack"] $w6
 
 # Startup applications
-exec terminator
+exec terminator 
 exec Thunar
-exec atom
 exec sh ~/.fehbg
 exec compton --config ~/.config/compton/compton.conf
 
@@ -36,18 +33,20 @@ exec compton --config ~/.config/compton/compton.conf
 bindsym $mod+Shift+x exec bash ~/.scripts/lock.sh
 
 # Set bar colours
-set $bg-color 	              #00000088
-set $inactive-bg-color        #2f343f88
-set $text-color               #ffb066
-set $inactive-text-color      #ffffff
-set $urgent-bg-color          #43485288
-set $inactive-window-bg       #fff2e6
+set $bg-color 	              #00000000
+set $inactive-bg-color        #
+set $text-color               #fdf6e3
+set $inactive-text-color      #93a1a1
+set $urgent-bg-color          #dc322f
+set $inactive-window-bg       #073642
+set $border-color             #586e75
+set $inactive-border          #073642
 
 # window colors
 #                       border              background            text                 indicator
-client.focused          $text-color         #91a7b3               $text-color          $text-color
-client.unfocused        $inactive-bg-color  $inactive-window-bg   $inactive-text-color $text-color
-client.focused_inactive $text-color	        $inactive-window-bg   $inactive-text-color $text-color
+client.focused          $border-color       $border-color         $text-color          $text-color
+client.unfocused        $inactive-bg-color  $inactive-border      $inactive-text-color $text-color
+client.focused_inactive $border-color       $inactive-window-bg   $inactive-text-color $text-color
 client.urgent           $urgent-bg-color    $urgent-bg-color      $urgent-text-color   $text-color
 
 bar {
@@ -61,9 +60,9 @@ bar {
         background $bg-color
         separator #676E7D
   	#                  border             background         text
-  	focused_workspace  $bg-color          $bg-color          $inactive-text-color
-  	inactive_workspace $bg-color          $bg-color          $text-color
-  	urgent_workspace   $bg-color          $bg-color          $text-color
+  	focused_workspace  $bg-color          $bg-color          $text-color
+  	inactive_workspace $bg-color          $bg-color          $inactive-text-color
+  	urgent_workspace   $bg-color          $bg-color          $inactive-text-color
 	}
 }
 
